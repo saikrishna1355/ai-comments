@@ -1,6 +1,6 @@
 {
   "name": "ai-comments",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "CLI tool to auto-generate code comments using AI (or stubs) for existing codebases.",
   "bin": {
     "ai-comments": "bin/ai-comments.js"
