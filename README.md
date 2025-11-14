@@ -42,7 +42,7 @@ node bin/ai-comments.js ./src --dry-run
 
 ### Source code and contributions
 
-- The code is intended to live in a public GitHub repository (for example `https://github.com/<your-username>/ai-comments` — replace with your actual repo URL).
+- The code is intended to live in a public GitHub repository - `https://github.com/saikrishna1355/ai-comments` .
 - You are free to fork the repository, customize the behavior, or use it as a starting point for your own tools.
 - If you find bugs or have ideas for improvements, you can raise an issue in the GitHub repo.
 - Pull requests are welcome; changes that improve comments, configuration options, or developer experience are especially appreciated.
