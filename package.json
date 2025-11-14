@@ -1,0 +1,35 @@
+{
+  "name": "ai-comments",
+  "version": "0.1.4",
+  "description": "CLI tool to auto-generate code comments using AI (or stubs) for existing codebases.",
+  "bin": {
+    "ai-comments": "bin/ai-comments.js"
+  },
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node bin/ai-comments.js",
+    "lint": "node -c src/index.js || echo \"No JS syntax check in this env\""
+  },
+  "keywords": [
+    "ai",
+    "comments",
+    "code comments",
+    "auto comments",
+    "automatic comments",
+    "documentation",
+    "docs",
+    "cli",
+    "codegen",
+    "developer tools",
+    "code understanding",
+    "typescript",
+    "javascript",
+    "refactor"
+  ],
+  "author": "Sai krishna M ",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
